@@ -1,0 +1,31 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Large dataset
+data/
+*.zip
+
+# Large trained model
+random_forest_model.pkl
+
+# Hadoop and Mahout temporary files
+*.seq
+*.crc
+clustered_points_dump.txt
+final_clusters.txt
+image_paths.txt
+
+# Temporary logs
+*.log
+
+# System files
+.DS_Store
+
+# Compiled Java files
+*.class
+
+# Temporary cluster checks
+cluster_dump_check.txt
+mapreduce/mapreduce_log.txt

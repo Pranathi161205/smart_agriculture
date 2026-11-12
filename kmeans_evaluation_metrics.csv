@@ -1,0 +1,7 @@
+Metric,Score
+Silhouette Score,0.24651874883922265
+Adjusted Rand Index (ARI),0.0889319074053214
+Normalized Mutual Information (NMI),0.16841861112462606
+Homogeneity,0.13578814344047527
+Completeness,0.22169218487878017
+V-Measure,0.16841861112462606
